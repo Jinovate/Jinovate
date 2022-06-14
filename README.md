@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 안녕하세요 제 깃헙에 놀러오신걸 환영합니다. 👋
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimJinSung%20&fontSize=90)
 
