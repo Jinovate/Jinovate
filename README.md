@@ -18,10 +18,17 @@ Here are some ideas to get you started:
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
+### 📚 Studying
+  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  
+### 📊 Activity
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CEOJINSUNG&count_private=true)
 
+### 💪🏻 Problem Solving
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsungone)](https://solved.ac/jinsungone/)
-  
+
 
 </div>
