@@ -9,13 +9,13 @@
 
 <!-- Here are some ideas to get you started: -->
 
-<!-- - 🔭 I’m currently working on ... -->
+🔭 I’m currently working on **Naver Boost Camp 7th**
 🌱 I’m currently learning **Spring Boot, Docker/Kubernetes**
 <!-- - 👯 I’m looking to collaborate on ... -->
 🤔 I’m looking for help with **Spring Boot Clean Code**
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-<!-- - 😄 Pronouns: ... -->
+😄 Pronouns: **딱 6개월만 1분 1초라도 낭비하지 말고 달리자!!**
 <!-- - ⚡ Fun fact: ... -->
 
 ### 📚 Tech
