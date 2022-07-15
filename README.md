@@ -15,7 +15,7 @@
 🤔 I’m looking for help with **Spring Boot Clean Code**
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
-😄 Pronouns: **딱 6개월만 1분 1초라도 낭비하지 말고 달리자!!**
+😄 Action Objective: **딱 6개월만 1분 1초라도 낭비하지 말고 달리자!!**
 <!-- - ⚡ Fun fact: ... -->
 
 ### 📚 Tech
