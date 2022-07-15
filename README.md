@@ -9,7 +9,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-🔭 I’m currently working on **Naver Boost Camp 7th**
+🔭 I’m currently working on **Naver Boost Camp 7th** <br /> <br />
 🌱 I’m currently learning **Spring Boot, Docker/Kubernetes**
 <!-- - 👯 I’m looking to collaborate on ... -->
 🤔 I’m looking for help with **Spring Boot Clean Code**
