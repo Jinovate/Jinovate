@@ -2,12 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimJinSung%20&fontSize=90)
 
-<div align="center">
-
-
 <!-- **CEOJINSUNG/CEOJINSUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
 
 🔭 I’m currently working on **Naver Boost Camp 7th** <br /> <br />
 <!-- 🌱 I’m currently learning **Spring Boot, Docker/Kubernetes** -->
@@ -31,6 +26,3 @@
 ### 💪🏻 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsungone)](https://solved.ac/jinsungone/)
-
-
-</div>
