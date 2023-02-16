@@ -1,15 +1,4 @@
-## Welcome to Guri Github. Have a good day 👋
-
-<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=KimJinSung%20&fontSize=90) -->
-
-<!-- **CEOJINSUNG/CEOJINSUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-I’m currently working on **Naver Boost Camp 7th** <br />
-<!-- 🌱 I’m currently learning **Spring Boot, Docker/Kubernetes** -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-I’m looking for help with **Clean Code**
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-<!-- - ⚡ Fun fact: ... -->
+## 🐸 Guri Github
 
 ### 📚 Tech
 <div style="center">
