@@ -16,3 +16,4 @@
 ### 💪🏻 Problem Solving
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinsungone)](https://solved.ac/jinsungone/)
+
