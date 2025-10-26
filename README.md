@@ -11,7 +11,7 @@
   
 ### 📊 Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CEOJINSUNG&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinovate&count_private=true)
 
 ### 💪🏻 Problem Solving
 
